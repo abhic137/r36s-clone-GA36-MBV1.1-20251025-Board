@@ -1,4 +1,3 @@
-Absolutely. I actually think this is worth documenting properly because there are a lot of GA36/R36S owners who end up with the same questions. I'll write it as a **professional step-by-step guide** based on the exact process we followed. Later, we can turn it into a PDF with screenshots and annotations.
 
 ---
 
